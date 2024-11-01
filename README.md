@@ -1,1 +1,1 @@
-# crawling_data
+Repository ini berisi file crawling data komentar pada platform youtube
